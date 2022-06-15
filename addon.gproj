@@ -1,8 +1,0 @@
-GameProject {
- ID "SPMissionTemplate"
- GUID "599935D677E5EB71"
- TITLE "SPMissionTemplate"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}

@@ -1,0 +1,26 @@
+SCR_BaseGameMode GameMode_Base1 : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ components {
+  SCR_AutomaticRespawnHandlerComponent "{599EC7A64D0B78EF}" {
+   Enabled 0
+  }
+  SCR_ChatComponent "{599EC7B59B338F71}" {
+  }
+  SCR_RespawnMenuHandlerComponent "{599935D2E04D2EDD}" {
+  }
+  SCR_RespawnSystemComponent "{56B2B4793051E7C9}" {
+  }
+  SCR_RespawnTimerComponent "{599935D2CB015DD3}" {
+   m_fRespawnTime 2.6
+  }
+  SCR_VotingManagerComponent "{5650BB6B6089393A}" {
+   m_aVotingTemplates {
+    SCR_VotingEditorIn "{599935D7ECFB4401}" {
+     m_Type EDITOR_IN
+     m_Info SCR_VotingUIInfo "{599935D46B553AF5}" {
+     }
+    }
+   }
+  }
+ }
+ coords 6246.792 164.601 6444.429
+}

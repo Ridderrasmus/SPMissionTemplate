@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9F198E9ACA57BC58}Prefabs/Triggers/RIDDER_ReinforcementTriggerPrefab.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

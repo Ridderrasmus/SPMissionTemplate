@@ -1,0 +1,13 @@
+SCR_SpawnPoint : "{5A2220DD0C16958B}Prefabs/MP/Spawning/SpawnPoint_US.et" {
+ coords 6244.141 164.684 6445.969
+ m_fSpawnRadius 3.2
+ m_fNoPlayerRadius 0
+ m_bShowInDeployMapOnly 1
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "US Spawn Point"
+ }
+}
+GenericEntity : "{BE99D77D1155B127}Prefabs/Systems/Arsenal/ArsenalBoxes/US/ArsenalBox_US.et" {
+ coords 6243.136 164.718 6450.506
+ angleY 146.395
+}
